@@ -4,7 +4,7 @@ I am a Data Scientist with 10 years of experience working with large and complex
 I enjoy turning raw data into meaningful insights, building predictive models, and solving real-world problems with data.
 ---
 About Me
-10+ years of experience in analytics, data science, and data-driven problem solving
+10 years of experience in analytics, data science, and data-driven problem solving
 Strong background in Python, SQL, machine learning, and statistical analysis
 Experience working with structured and large-scale enterprise data
 Skilled in exploratory data analysis, feature engineering, model building, and validation
