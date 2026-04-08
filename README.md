@@ -1,6 +1,6 @@
 Hi, I'm Pradeep Gajjala 👋
 Data Scientist | Machine Learning | Applied Analytics
-I am a Data Scientist with 10+ years of experience working with large and complex datasets across healthcare, telecom, finance, and enterprise environments. My work focuses on machine learning, statistical analysis, data engineering support, and building practical solutions that help businesses make better decisions.
+I am a Data Scientist with 10 years of experience working with large and complex datasets across healthcare, telecom, finance, and enterprise environments. My work focuses on machine learning, statistical analysis, data engineering support, and building practical solutions that help businesses make better decisions.
 I enjoy turning raw data into meaningful insights, building predictive models, and solving real-world problems with data.
 ---
 About Me
